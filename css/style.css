@@ -39,6 +39,14 @@ body {
     color:rgb(0,0,0);
 }
 
+.color.aqua {
+    color: #00d9ff;
+}
+
+.color.rid {
+    color: #ff0000;
+}
+
 .contents{
     width:80%;
     min-width: 80vw;
